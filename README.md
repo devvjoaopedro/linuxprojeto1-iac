@@ -7,4 +7,4 @@ Desafio como projeto elaborado por https://github.com/denilsonbonatti, um script
 - Senhas de autenticação
 - Definição do tipo de terminal a ser utilizado (Bash)
 
-  Configura direciona cada ususrio para seu grupo pertecente, e define suas permissões.
+  Configura direciona cada ususrio para seu grupo pertencente, e define suas permissões.
